@@ -1,0 +1,62 @@
+#NavBar {
+	width: 100%;
+	float: left;
+	margin: 0 0 3em 0;
+	padding: 0;
+	list-style: none;
+	background-color: #f2f2f2;
+	border-bottom: 1px solid #ccc; 
+	border-top: 1px solid #ccc; }
+#NavBar li {float: left;
+
+}
+#NavBar li a {
+	display: block;
+	padding: 8px 15px;
+	text-decoration: none;
+	font-weight: bold;
+	color: #069;
+	border-right: 1px solid #ccc; }
+#NavBar li a:hover {
+	color: #c00;
+	background-color: #fff; }
+#NavBar ul{list-style-type:none}
+#Wrap{
+	width:900px;
+	margin:auto;}
+#Wrap{background-color:#457C89  ;
+padding-top: 30px;
+}
+#Wrap h1{padding-left: 60px;
+font-family: Helvetica }
+#Wrap h2{padding-left: 60px;
+color: #020202;}
+#Wrap h3{padding-left: 60px;
+font-size: 22px}
+#Wrap h4{padding-left: 60px;
+font-size: 22px}
+#Wrap h5{padding-left: 60px;
+font-size: 22px;
+font-style: italic}
+#Wrap form {padding-left: 60px}
+#Wrap table{padding-left: 60px}
+
+#Wrap p{padding-left: 60px;
+font-family: Helvetica;
+color: #f2f2f2}
+#Wrap li{padding-left: 60px;
+font-family: Helvetica;
+color:#f2f2f2 }
+#Heading{color: hsl(99, 100%, 99%);
+background-color: #020202}
+body{background-color:#253B40;
+}
+#Footer {margin-top: 100px;
+background-color: #000000;
+	color: #f2f2f2;
+}
+#picAnnouncements img {float:right;
+padding-right: 15px}
+#picParties img{float: right;
+padding-right: 12px}
+#AnnouncementParties h3{font-style: italic}
